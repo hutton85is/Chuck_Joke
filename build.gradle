@@ -2,7 +2,7 @@ apply plugin: 'java'
 apply plugin: 'application'
 
 mainClassName = "is.arnlaugsson.chuck_joke.ChuckWeb"
-
+//bara bæta aðeins við
 repositories {
     jcenter()
 }
